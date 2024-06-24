@@ -224,8 +224,8 @@ img {
 	transform:translate3d(0,0,0)!important
 }
 @font-face {
-	font-family:'RuiHeiXiTi';
-	src:url('fonts/RuiHeiXiTi.otf') format('truetype');
+	font-family: "Josefin Sans", sans-serif;
+	src:url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap') format('truetype');
 	font-weight:bold;
 	font-style:normal
 }
@@ -237,7 +237,7 @@ html {
 	text-shadow:1px 1px 0 rgba(255,255,255,0.4)
 }
 body,button {
-	font-family:"RuiHeiXiTi",sans-serif
+	font-family: "Josefin Sans", sans-serif;
 }
 .navigation,.credits,.switches {
 	display:none
